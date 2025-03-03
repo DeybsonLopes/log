@@ -6,7 +6,7 @@
 Corrigido o envio de mídia na fila (QueueOptionController.ts, QueueController.ts, wbotMessageListener.ts)
 Corrigido erro de digitação em Contact no arquivo wbotMessageListener.ts
 
-## 🎯 Aprimoramento do Sistema de Filas WHATICKET
+## 🎯 Aprimoramento do Sistema de Filas Zapflow
 
 🔄 Removida a verificação baseada em regex que bloqueava a seleção da fila após mensagens inválidas
 ✨ Agora aceita qualquer entrada numérica válida, independentemente das mensagens anteriores do bot
@@ -28,5 +28,5 @@ Corrigido erro de digitação em Contact no arquivo wbotMessageListener.ts
 📁 Implementadas pastas específicas por empresa em "public"
 
 
-### Copyright © 2025 Pack Typebot
+### Copyright © 2025 Zapflow
 Feito com ❤️ para uma melhor experiência do usuário
